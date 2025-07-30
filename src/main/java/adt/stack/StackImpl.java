@@ -43,7 +43,7 @@ public class StackImpl<T> implements Stack<T> {
 	@Override
 	public T pop() throws StackUnderflowException {
 		T result = null; 
-		if (top == -1) {
+		if (isEmpty()) {
 			throw new StackUnderflowException();
 		} else {
 			result = array[top];
