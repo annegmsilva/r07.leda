@@ -34,7 +34,7 @@ public class QueueImpl<T> implements Queue<T> {
 		for (int i = 1; i <= array.length; i ++) {
 			array[i - 1] = array[i];
 		}
-		array[array.length -1] = null;
+		array[tail] = null;
 		
 	}
 

@@ -7,3 +7,23 @@
   <level>FINE</level>
   <message>File 124110731-ANNE GRAZIELI MARQUES SILVA.zip was received. It was sent by ANNE GRAZIELI MARQUES SILVA from IP 150.165.42.118 at 25-07-2025 11*12*10</message>
 </record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-07-30T08:32:54.327-0300</date>
+  <logger>ANNE GRAZIELI MARQUES SILVA</logger>
+  <level>FINE</level>
+  <message>File 124110731-ANNE GRAZIELI MARQUES SILVA.zip was received. It was sent by ANNE GRAZIELI MARQUES SILVA from IP 150.165.42.131 at 30-07-2025 08*32*54</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-07-30T08:38:29.741-0300</date>
+  <logger>ANNE GRAZIELI MARQUES SILVA</logger>
+  <level>FINE</level>
+  <message>File 124110731-ANNE GRAZIELI MARQUES SILVA.zip was received. It was sent by ANNE GRAZIELI MARQUES SILVA from IP 150.165.42.131 at 30-07-2025 08*38*29</message>
+</record>
